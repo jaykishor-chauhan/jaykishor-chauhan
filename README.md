@@ -16,7 +16,10 @@
 - 🌱 I’m currently learning **React, NodeJS**  
 - 📫 How to reach me **jaykishor04.3.7.np@gmail.com**  
 - 📄 Know about my experiences: [My Portfolio](https://cjaykishor.com.np/)  
-- ⚡ Fun fact: **I think I am funny!**  
+- ⚡ Fun fact: **I think I am funny!**
+- [![🌟 Follow Me on GitHub](https://img.shields.io/badge/🌟-Follow%20Me%20on%20GitHub-yellow)](https://github.com/jaykishor-chauhan)
+
+
 <br/>
 
 ---
