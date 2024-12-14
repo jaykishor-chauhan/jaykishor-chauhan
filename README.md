@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ About Me:
+### 🛠️ About Me
 - 🌱 I’m currently learning **React, NodeJS**  
 - 📫 How to reach me **jaykishor04.3.7.np@gmail.com**  
 - 📄 Know about my experiences: [My Portfolio](https://cjaykishor.com.np/)  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://instagram.com/jaykishor_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/jaykishor_c" height="30" width="40" /></a>
 <a href="https://facebook.com/Jaykishor076/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/Jaykishor076/" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🖥️ Coading Profile:
+### 🖥️ Coading Profile
 <p align="left">
 <a href="https://www.geeksforgeeks.org/user/jaykishorchscv8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/jaykishorchscv8/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/jaykishor-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/jaykishor-chauhan/" height="30" width="40" /></a>
@@ -46,17 +46,24 @@
 
 --- 
 
-### ⚒️ Languages-Frameworks-Tools
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css,git,vscode" />
-    <p></p> <!-- Another empty paragraph for spacing -->
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,c,java,python" />
-</div>
-<br/>
+### 💼 Resume & Portfolio
+🚀 *Explore my work and projects:* 
+
+[*Visit My Portfolio*](https://cjaykishor.com.np/)  
+
+📄 *Download my Resume:*  
+
+<a href="https://raw.githubusercontent.com/jaykishor-chauhan/resume/main/Jaykishor's%20resume.pdf">
+    Click Here to Download
+</a>
+
+<br />
+<br />
 
 ---
 
-### 📊 My GitHub Stats:
+
+### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaykishor-chauhan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykishor-chauhan&theme=radical" alt="GitHub Streak" />
@@ -66,40 +73,42 @@
 
 ---
 
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaykishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
-</p>
-<br />
-
----
-
-### 💼 Resume & Portfolio
-🚀 *Explore my work and projects:* 
-
-[*Visit My Portfolio*](https://sahilgupta.com.np/)  
-
-📄 *Download my Resume:*  
-
-<a href="https://raw.githubusercontent.com/sahilgupta0/resume/main/Sahil's_resume.pdf" download="Sahil_Gupta_Resume.pdf">
-    Click Here to Download
-</a>
-
-<br />
-<br />
-
----
 
 ### 📚 Ongoing Projects
 
 
 ---
 
+
+### ⚒️ Languages-Frameworks-Tools
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css,git,vscode" />
+    <p></p> <!-- Another empty paragraph for spacing -->
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,c,java,python" />
+</div>
+<br/>
+
+---
+
+
 ### 📍 Currently Learning
 - Elevating my MERN Stack skills with advanced techniques to build efficient and scalable web applications.
 <br />
 
 ---
+
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaykishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
+</p>
+<br />
+
+
+---
+
+
 
 
 
