@@ -36,7 +36,11 @@
 ### 🖥️ Coading Profile:
 <p align="left">
 <a href="https://www.geeksforgeeks.org/user/jaykishorchscv8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/jaykishorchscv8/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/sa_hilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/sa_hilgupta0/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/jaykishor-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/jaykishor-chauhan/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/jaykishorchauha1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/profile/jaykishorchauha1" height="30" width="40" />
+</a>
+
 </p>
 <br/>
 
@@ -49,6 +53,51 @@
     <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,c,java,python" />
 </div>
 <br/>
+
+---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaykishor-chauhan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykishor-chauhan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykishor-chauhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<br />
+
+---
+
+### 🏆 Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaykishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
+</p>
+<br />
+---
+
+### 💼 Resume & Portfolio
+
+🚀 *Explore my work and projects:*  
+[*Visit My Portfolio*](https://sahilgupta.com.np/)  
+
+📄 *Download my Resume:*  
+
+<a href="https://raw.githubusercontent.com/sahilgupta0/resume/main/Sahil's_resume.pdf" download="Sahil_Gupta_Resume.pdf">
+    Click Here to Download
+</a>
+
+
+---
+
+### 📚 Ongoing Projects
+
+- *Emotion-Aware Music Recommendation System* – Working on emotion detection through voice recognition.
+- *Social Media Content Optimization* – Developing algorithms for better content curation.
+- *Deep Learning Models* – Building and training models using TensorFlow and Keras for various applications in AI and ML.
+
+---
+
+### 📍 Currently Learning
+
+- Level Up Your MERN Stack Skills: Advanced techniques to craft efficient, scalable web applications.
 
 ---
 
