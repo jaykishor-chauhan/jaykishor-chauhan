@@ -22,31 +22,30 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  
-<a href="https://www.linkedin.com/in/jaykishor-chauhan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jaykishor-chauhan/" height="30" width="40" /></a>
+<p align="left">
+<a href="https://instagram.com/jaykishor_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/jaykishor_c" height="30" width="40" /></a>
+<a href="https://facebook.com/Jaykishor076/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/Jaykishor076/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaykishor-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jaykishor-chauhan/" height="30" width="40" /></a>
+<a href="https://wa.me/+9779815215667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp.com/+9779815215667" height="30" width="40" />
+</a>
 
-<a href="https://www.facebook.com/Jaykishor076" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/Jaykishor076" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/jaykishor_c/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/jaykishor_c" height="30" width="40" /></a>
-
+</p>
 
 ---
 
 ### Coading Profile:
-<p align="center">
-<a href="https://www.leetcode.com/u/jaykishor_c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-   code.svg" alt="leetcode.com/u/jaykishor_c" height="30" width="40" /></a>
-
+<p align="left">
 <a href="https://geeksforgeeks.org/user/sahilroy1918912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/sahilroy1918912/" height="30" width="40" /></a>
-
+<a href="https://www.leetcode.com/u/sa_hilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/sa_hilgupta0/" height="30" width="40" /></a>
 </p>
 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css,git" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,nextjs,express,mysql,mongodb,c,java,python" /><br>
 </div>
 
 <br/>
