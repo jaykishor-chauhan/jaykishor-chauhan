@@ -17,7 +17,9 @@
 - 📫 How to reach me **jaykishor04.3.7.np@gmail.com**  
 - 📄 Know about my experiences: [My Portfolio](https://cjaykishor.com.np/)  
 - ⚡ Fun fact: **I think I am funny!**
-- [![🌟 Follow Me on GitHub](https://img.shields.io/badge/🌟-Follow%20Me%20on%20GitHub-yellow)](https://github.com/jaykishor-chauhan)
+- <a href="https://www.linkedin.com/in/jaykishor-chauhan" >
+  <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=social&logo=linkedin" alt="Follow me on LinkedIn" width="200"/>
+</a>
 
 
 <br/>
