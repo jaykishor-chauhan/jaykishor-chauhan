@@ -9,7 +9,6 @@
 <h3 align="center">A passionate MERN developer from Nepal</h3>
 
 
-<br/>
 
 ---
 
@@ -18,6 +17,7 @@
 - 📫 How to reach me **jaykishor04.3.7.np@gmail.com**  
 - 📄 Know about my experiences: [My Portfolio](https://cjaykishor.com.np/)  
 - ⚡ Fun fact: **I think I am funny!**  
+<br/>
 
 ---
 
@@ -28,64 +28,29 @@
 <a href="https://linkedin.com/in/jaykishor-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jaykishor-chauhan/" height="30" width="40" /></a>
 <a href="https://wa.me/+9779815215667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp.com/+9779815215667" height="30" width="40" />
 </a>
-
 </p>
+<br/>
 
 ---
 
-### Coading Profile:
+### 🖥️ Coading Profile:
 <p align="left">
-<a href="https://geeksforgeeks.org/user/sahilroy1918912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/sahilroy1918912/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/jaykishorchscv8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/jaykishorchscv8/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/sa_hilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/sa_hilgupta0/" height="30" width="40" /></a>
 </p>
-
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css,git" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,nodejs,nextjs,express,mysql,mongodb,c,java,python" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+--- 
 
+### ⚒️ Languages-Frameworks-Tools
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css,git,vscode" />
+    <p></p> <!-- Another empty paragraph for spacing -->
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,c,java,python" />
+</div>
 <br/>
 
-
-
-
-
+---
 
 
 
