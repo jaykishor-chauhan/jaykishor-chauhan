@@ -71,11 +71,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jaykishor-chauhan&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </p>
 <br />
+
 ---
 
 ### 💼 Resume & Portfolio
+🚀 *Explore my work and projects:* 
 
-🚀 *Explore my work and projects:*  
 [*Visit My Portfolio*](https://sahilgupta.com.np/)  
 
 📄 *Download my Resume:*  
@@ -84,20 +85,19 @@
     Click Here to Download
 </a>
 
+<br />
+<br />
 
 ---
 
 ### 📚 Ongoing Projects
 
-- *Emotion-Aware Music Recommendation System* – Working on emotion detection through voice recognition.
-- *Social Media Content Optimization* – Developing algorithms for better content curation.
-- *Deep Learning Models* – Building and training models using TensorFlow and Keras for various applications in AI and ML.
 
 ---
 
 ### 📍 Currently Learning
-
-- Level Up Your MERN Stack Skills: Advanced techniques to craft efficient, scalable web applications.
+- Elevating my MERN Stack skills with advanced techniques to build efficient and scalable web applications.
+<br />
 
 ---
 
