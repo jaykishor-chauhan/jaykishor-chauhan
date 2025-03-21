@@ -1,4 +1,4 @@
-<img align="center" src="https://drive.google.com/uc?id=15DnhqdsearyGaH9VJpxX0bnUbhxVQSNq" />
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jaykishor-chauhan.jaykishor-chauhan" />
 <br />
